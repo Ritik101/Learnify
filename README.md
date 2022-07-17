@@ -1,4 +1,4 @@
-# Learnify
+# Learnify: Learning through Augmented Reality
 
 Created a web-based learning platform using Augmented Reality.
 Application provides subjects such as Chemistry, Biology Mathematics, etc for learning.
